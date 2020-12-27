@@ -1,0 +1,7 @@
+cryptography
+pycrypto
+pyyaml
+requests
+xmltodict
+lxml
+coverage
